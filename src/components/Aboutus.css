@@ -12,7 +12,6 @@
 }
 
 .form{
-    background-color: rgb(255, 255, 255);
     padding: 30px;
     margin-top: 30px;
 }
@@ -47,13 +46,14 @@
     border: none;
     font-size: 20px;
     border-bottom: 2px solid red;
-    background-color: rgba(255, 255, 255, 0.252);
+    background-color: rgba(0, 0, 0, 0.3);
     /* border-radius: 5px; */
 }
 
 .field label{
     font-size: 24px;
     font-weight: 500;
+    color: white;
 }
 
 .ui button {
@@ -70,21 +70,23 @@
 }
 
 .ui .reset-btn {
-    background-color: aliceblue;
+    background-color: rgb(18, 18, 18);
     color: black;
     border: 1px solid rgb(0, 68, 255);
+    color: white;
 }
 
 .container h1{
     margin-bottom: 40px;
     font-size: 35px;
+    color: white;
 }
 
 
 .form{
     /* border: 1px solid gray; */
     border-radius: 10px;
-    background-color:  rgb(255, 245, 228);
+    background-color:  rgb(58, 29, 0);
 }
 
 .form h1{
