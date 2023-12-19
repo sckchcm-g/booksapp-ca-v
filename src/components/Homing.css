@@ -55,6 +55,8 @@ ul{
 } .author{
     font-size: 18px;
     margin: 10px;
+    margin-bottom: 20px;
+    text-align: center;
 } .lowdiv{
     display: flex;
     justify-content: space-between;
